@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+#The plots, and data folders
+plots/
+data/
 
 # Distribution / packaging
 .Python
