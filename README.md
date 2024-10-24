@@ -24,3 +24,5 @@ This is a repository created to submit the Homework 1 of the **Social Networks &
 5. ``.gitignore``: A predetermined `.gitignore` file that tells Git which files or folders to ignore in a Python project.
 
 6. `LICENSE`: A file containing an MIT permissive license.
+
+7. `SocialNetworksHW_SanchezCortesMiguelAngel.pdf`: A pdf file with the final report of the homework.
